@@ -1,6 +1,6 @@
 # Room Thermometer
 
-A model of a room thermometer created using visual python. The thermometer shows temperature in two scales: celsius and fahrenheit.
+A model of a room thermometer created using visual python. The thermometer measures the temperature in two scales: celsius and fahrenheit.
 Here are some screenshots of the model.
 
 ![Thermometer 1](https://user-images.githubusercontent.com/98907729/174612195-82a0671b-d97a-49fe-a0f4-0c8aafe40b85.png)
